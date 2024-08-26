@@ -1,5 +1,6 @@
 # E-commerce Sales Dashboard
-This Excel dashboard contains data of e-commerce sales spanning from 2011 to 2014. Utilizing slicers, users can easily filter and analyze the data, gaining insights into sales performance, allowing for better decision making and improving overall performance. 
+## Business Objective
+Understand customer behavior, preferences, and demographics to improve marketing and overall satisfaction. Utilizing slicers, users can easily filter and analyze the data, gaining insights into sales performance, allowing for better decision making. 
 ## Dashboard Components
   - KPI's:
       1. Total Sales
