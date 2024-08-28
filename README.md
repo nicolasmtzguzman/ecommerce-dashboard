@@ -170,8 +170,13 @@ ORDER BY profitability_rank;
 **Sales Performance**
 - The total profit has been steadily increasing from 2011 to 2014, despite there being a negative growth in sales from 2011 from 2012.
 - New York City and Los Angeles have the best performance by far, with the west region having the highest order count.
-- The three products that are driving the most sales are the Canon imageCLASS 2200 Advanced Copier, Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind, and Hewlett Packard LaserJet 3310 Copier.\
+- The three products that are driving the most sales are the Canon imageCLASS 2200 Advanced Copier, Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind, and Hewlett Packard LaserJet 3310 Copier.
+
 **Customer Insights**
-- The top three customers are Sean Miller, Tamara Chand, and Raymond Buch. Priorite them for retention.
+- The number of customers has increased from 590 to 690 in the 4 year span.
+- The top three customers are Sean Miller, Tamara Chand, and Raymond Buch. Prioritize them for retention.
+
+**Profitability**:
 - Sales in the technology and office supplies category have similar high profit margins, but sales in the furniture category have a low profit margin. Consider decreasing furniture inventory.
+- The consumer segment has the highest profit over Corporate and Home Office. Consider targeting similar profiles.
 
